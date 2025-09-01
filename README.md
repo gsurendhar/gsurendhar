@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
+![Profile Views](https://komarev.com/ghpvc/?username=gsurendhar&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surendhar-gonela) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@surendhar-gonela) 
 
 # 💻 Tech Stack:
