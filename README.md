@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/61d9d24e-215f-453d-b0f5-4eccfd9db631" />
+
 
 <!--
 **gsurendhar/gsurendhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
