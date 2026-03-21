@@ -7,9 +7,9 @@
   <a href="mailto:gsurendhar.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.github.com/gsurendhar"><img src="https://img.shields.io/github/followers/gsurendhar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
----
+
 <img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/61d9d24e-215f-453d-b0f5-4eccfd9db631" />
----
+
 ---
 
 ## 🚀 About Me
