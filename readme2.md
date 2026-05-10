@@ -115,6 +115,17 @@ I don't just deploy applications — I **build reliable, secure, and scalable cl
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake.svg" />
+  <img alt="github contribution snake" 
+       src="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake.svg" />
+</picture>
+
+---
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=gsurendhar&icon=1&color=0" />
   <br/>
