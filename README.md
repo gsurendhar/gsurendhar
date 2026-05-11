@@ -103,7 +103,17 @@ TECHNICAL SKILLS
 ---
 [![](https://visitcount.itsvg.in/api?id=gsurendhar&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake.svg" />
+  <img alt="github contribution snake" 
+       src="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake.svg" />
+</picture>
+
+---
 
 
 
