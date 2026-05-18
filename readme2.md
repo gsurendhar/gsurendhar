@@ -126,6 +126,8 @@ I don't just deploy applications — I **build reliable, secure, and scalable cl
 
 ---
 
+![My GitHub Space Shooter](game.gif)
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=gsurendhar&icon=1&color=0" />
   <br/>
