@@ -43,15 +43,7 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/gsurendhar/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
 
 Thanks for visiting!
 
