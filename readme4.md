@@ -2,9 +2,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@surendhar-gonela"> 
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="mailto:gsurendhar.ai@gmail.com"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/gsurendhar"> 
-<img src="https://img.shields.io/github/followers/gsurendhar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a> </p> --- <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/61d9d24e-215f-453d-b0f5-4eccfd9db631" /> --- # 🚀 
+<img src="https://img.shields.io/github/followers/gsurendhar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a> </p> --- <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/61d9d24e-215f-453d-b0f5-4eccfd9db631" /> 
 
-About Me I don’t just deploy applications 
+--- 
+
+# 🚀 About Me I don’t just deploy applications 
 — I build reliable, secure, and scalable cloud environments that help engineering teams deliver faster with confidence. 
 - 🔧 4+ years of hands-on experience in DevOps, Cloud Infrastructure, Kubernetes, and CI/CD 
 - ☁️ Specialized in AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, and Helm 
@@ -39,7 +41,8 @@ About Me I don’t just deploy applications
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) 
 
-### 💻 Scripting & Databases ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+### 💻 Scripting & Databases 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash](https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -55,8 +58,16 @@ About Me I don’t just deploy applications
 | 🐳 Docker | Optimized Docker build efficiency across projects | 
 --- 
 # 📌 Featured Project 
-[![terraform-eks](https://github-readme-stats.vercel.app/api/pin/?username=gsurendhar&repo=terraform-eks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/gsurendhar/terraform-eks)
+[![terraform-eks](https://github-readme-stats.vercel.app/api/pin/?username=gsurendhar&repo=terraform-eks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/gsurendhar/terraform-aws-eks)
 --- 
 # 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gsurendhar&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsurendhar&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsurendhar&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 --- 
-# 🏆 GitHub Trophies <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gsurendhar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> </p> --- <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake.svg" /> </picture> --- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=gsurendhar&icon=5&color=6" /> </p> <p align="center"> <i>Thanks for visiting! Let's build scalable infrastructure together 🚀</i> </p>
+# 🏆 GitHub Trophies <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=gsurendhar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> </p> 
+
+--- 
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake.svg" /> <img alt="github contribution snake" src="https://raw.githubusercontent.com/gsurendhar/gsurendhar/output/github-snake.svg" /> </picture> 
+
+--- 
+
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=gsurendhar&icon=5&color=6" /> </p> <p align="center"> <i>Thanks for visiting! Let's build scalable infrastructure together 🚀</i> </p>
