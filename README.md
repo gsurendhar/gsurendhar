@@ -71,7 +71,26 @@ TECHNICAL SKILLS
 * 👥  I'm looking to collaborate on DevOps Projects
 
  
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/gsurendhar"><img src="https://github-readme-stats.vercel.app/api?username=gsurendhar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gsurendhar's GitHub stats" /></a>
+
+<a href="http://www.github.com/gsurendhar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gsurendhar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/gsurendhar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsurendhar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/gsurendhar/terraform-eks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gsurendhar&repo=terraform-eks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=gsurendhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gsurendhar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsurendhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gsurendhar&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
@@ -103,24 +122,3 @@ TECHNICAL SKILLS
 Thanks for visiting! ![](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif)
 
 ###
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gsurendhar"><img src="https://github-readme-stats.vercel.app/api?username=gsurendhar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gsurendhar's GitHub stats" /></a>
-
-<a href="http://www.github.com/gsurendhar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gsurendhar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/gsurendhar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsurendhar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/gsurendhar/terraform-eks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gsurendhar&repo=terraform-eks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=gsurendhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gsurendhar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsurendhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
