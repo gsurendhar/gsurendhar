@@ -18,7 +18,7 @@
 
 ---
 
-***I build scalable cloud infrastructures, automate ML pipelines, and create Internal Developer Platforms that help engineering teams move faster. I publish open-source DevOps & MLOps tooling and create technical content for the community.***
+<!-- ***I build scalable cloud infrastructures, automate ML pipelines, and create Internal Developer Platforms that help engineering teams move faster. I publish open-source DevOps & MLOps tooling and create technical content for the community.*** -->
 
 ---
 
@@ -26,14 +26,14 @@
 
 <div align="center">
 
-![alt text](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+<!-- ![alt text](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif) -->
 
 
 
 
 ![alt text](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
-![alt text](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+<!-- ![alt text](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif) -->
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -126,7 +126,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gsurendhar&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-🌟 **5,000+** Stars · 🍴 **1,000+** Forks · 👨‍💻 **50+** Contributors · 📚 **900+** Resources
+<!-- 🌟 **5,000+** Stars · 🍴 **1,000+** Forks · 👨‍💻 **50+** Contributors · 📚 **900+** Resources -->
 
 </div>
 
@@ -144,6 +144,7 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=gsurendhar&icon=1&color=0" />
   <br/>
-  <i>Thanks for visiting! Let's build reliable infrastructure together. 🚀</i>
+  <i>Thanks for visiting! Let's build reliable infrastructure together. 🚀![](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif) </i>
 </p>
-![](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif)
+
+###
