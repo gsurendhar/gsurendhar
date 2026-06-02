@@ -142,9 +142,9 @@
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gsurendhar&icon=1&color=0" />
+  <img src="(https://komarev.com/ghpvc/?username=gsurendhar&color=blueviolet)/>
   <br/>
-  <i>Thanks for visiting! Let's build reliable infrastructure together. 🚀![](https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif) </i>
+  <i>Thanks for visiting! Let's build reliable infrastructure together. 🚀(https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif) </i>
 </p>
 
 ###
