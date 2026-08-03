@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> I'm Surendhar Gonela</h1>
-<h3 align="center">DevOps & AWS Cloud Engineer | 4 Years | Hyderabad, India</h3>
+<h3 align="center">DevOps & AWS Cloud Engineer | Hyderabad, India</h3>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=gsurendhar&color=blueviolet" alt="Profile Views" />
@@ -19,7 +19,7 @@
 
 I don't just deploy applications — I **build reliable, secure, and scalable cloud environments** that help engineering teams deliver faster with confidence.
 
-- 🔧 **4+ years** of hands-on experience in cloud infrastructure, CI/CD automation, Kubernetes, DevSecOps, and IaC
+- 🔧 Hands-on experience in cloud infrastructure, CI/CD automation, Kubernetes, DevSecOps, and IaC
 - ☁️ Deep expertise in **AWS, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, and Helm**
 - 📉 Implemented DevSecOps quality gates that **reduced pre-release vulnerabilities by ~40%**
 - 🚀 Designed reusable CI/CD frameworks **adopted across multiple projects**
